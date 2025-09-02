@@ -1,6 +1,2 @@
-#include <stdio.h>
+//Librerias: Ian
 
-void app_main(void)
-{
-
-}
